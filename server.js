@@ -16,4 +16,3 @@ var express = require("express");
  app.listen(port, function() {
    console.log("Listening on " + port);
  });
- Show original message
